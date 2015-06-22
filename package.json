@@ -15,6 +15,7 @@
     "restbus": "^1.1.0"
   },
   "devDependencies": {
+    "frisby": "^0.8.5",
     "gulp": "^3.9.0",
     "gulp-jshint": "^1.11.0",
     "gulp-notify": "^2.2.0",
